@@ -10,6 +10,7 @@ namespace ConsoleApp5
             Console.WriteLine("Novoo");
             Console.WriteLine("Novo opet");
             Console.WriteLine("Mario xDDDDDDDDDDDDDDDDDDDDDDDDDDD");
+            Console.WriteLine("Molyyym PES PAKOFYYY VISHYYY Ne mokyyy ot stressyyy dyy sxhyyfyymm");
         }
     }
 }
