@@ -9,6 +9,7 @@ namespace ConsoleApp5
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novoo");
             Console.WriteLine("Novo opet");
+            Console.WriteLine("Mario xDDDDDDDDDDDDDDDDDDDDDDDDDDD");
         }
     }
 }
